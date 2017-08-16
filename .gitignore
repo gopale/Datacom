@@ -50,3 +50,4 @@ src/main/api/.repository/
 .mule/
 reports/
 velocity.log
+catalog/
